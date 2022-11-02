@@ -1,0 +1,5 @@
+print("============")
+print("prgoram quiz")
+print("============")
+print("Masukkan Nama : Evan Nanda Pratama")
+print("Masukkan Nim : 20210801339")
